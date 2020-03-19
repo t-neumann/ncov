@@ -69,6 +69,8 @@ location	Reims
 location	Pontoise
 location	Compiègne
 location	Contamines
+location	Thise
+location	Montreux-Chateau
 location	Rouen
 location	Leuven
 location	Starnberg
@@ -182,6 +184,8 @@ division	Aargau
 division	Geneva
 division	Vaud
 division	Ticino
+division	Graubünden
+division	Schwyz
 division	Comunitat Valenciana
 division	Italy
 division	Lazio
@@ -263,3 +267,11 @@ recency	One week ago
 recency	3-7 days ago
 recency	1-2 days ago
 recency	New
+
+region	Oceania
+region	Asia
+region	Africa
+region	Europe
+region	North America
+region	Central America
+region	South America
