@@ -16,6 +16,7 @@ location	Zhuhai
 location	Huaian
 location	Qingdao
 location	Guangzhou
+location	NanChang
 location	Foshan
 location	Hong Kong
 location	Taipei
@@ -30,12 +31,23 @@ location	Chungcheongnam
 location	Seoul
 location	Kathmandu
 location	Thanh Hoa
+location	Hanoi
 location	Bangkok
 location	Singapore
 location	Gold Coast
 location	Sydney
+location	Sunshine Coast
+location	Melbourne
+location	Brisbane
+location	Rockhampton
 location	Clayton
 location	Auckland
+location	Gilgit
+location	Riyadh
+location	Hawali
+location	Dasman
+location	Saint Petersburg
+location	Vienne
 location	Heinsberg District
 location	Heinsberg
 location	Munich
@@ -62,33 +74,96 @@ location	Tilburg
 location	Helmond
 location	Oisterwijk
 location	Dalen
+location	Budapest
 location	Nantes
+location	Tours
+location	Brest
+location	Vanves
+location	Crouy en Thelle
+location	Meudon la Forêt
 location	Crépy en Valois
+location	Bourg-en-Bresse
+location	Saint-Priest
+location	Venissieux
+location	Macon
+location	Privas
+location	Valence
+location	Lyon
 location	Paris
 location	Reims
+location	garches
+location	rennes
+location	longjumeau
+location	Levallois-perret
 location	Pontoise
 location	Compiègne
+location	Woippy
+location	Spicheren
+location	Chateau-Thierry
+location	Asnières-sur-Seine
+location	Juvisy-sur-Orge
+location	Orsay
+location	Saint-Thibault-des-Vignes
+location	Gennevilliers
+location	Noisy le Roi
 location	Contamines
 location	Thise
 location	Montreux-Chateau
 location	Rouen
 location	Leuven
+location	Villerot
+location	Poppel
+location	Havre
+location	Couillet
+location	Trazegnies
+location	Jumet
+location	Koersel
+location	Wandre
+location	Cuesmes
+location	Saive
+location	Quevaucamps
+location	Montignies-Sur-Sambre
+location	Tertre
+location	Heverlee
+location	Kain
+location	Winksele
+location	Jemappes
+location	Bassilly
+location	Blandain
+location	Neerpelt
+location	Geluwe
+location	Haulchin
+location	Bierset
+location	Saisinne
+location	Braine-le-Chateau
+location	Arbre
+location	Temploux
+location	Ladeuze
+location	Forchies-la-marche
+location	Yernee-fraineux
 location	Starnberg
 location	Strasbourg
 location	Rome
 location	Milan
 location	valencia
+location	Luxembourg
 location	England
+location	South Yorkshire
+location	Derbyshire
 location	Yorkshire
+location	Nottinghamshire
 location	Cardiff
 location	Rovaniemi
 location	Jönköping
 location	Helsinki
 location	Sao Paulo
+location	Brasilia
 location	Rio de Janeiro
-location	feira de santana
-location	vila velha
+location	Manaus
+location	Feira de Santana
+location	Vila Velha
 location	Mexico City
+location	La Crosse County
 location	King County
 location	Snohomish County
 location	Pierce County
@@ -101,14 +176,31 @@ location	Los Angeles
 location	California
 location	San Francisco
 location	San Diego County
+location	Marin County
+location	San Francisco County
+location	San Joaquin County
+location	Sacramento County
+location	Santa Clara County
+location	Grant County
 location	Snohomish County
 location	King County
+location	Clark County
+location	Umatilla County
 location	Phoenix
 location	Chicago
 location	Illinois
 location	Wisconsin
+location	Dane County
 location	Boston
+location	Manhattan
 location	Nassau County
+location	Brooklyn
+location	Queens
+location	Staten Island
+location	Bronx
+
+location	Grand Princess cruise ship
+
 
 
 division	China
@@ -117,6 +209,7 @@ division	Beijing
 division	Anhui
 division	Jiangxi
 division	Chongqing
+division	Hangzhou
 division	Sichuan
 division	Yunnan
 division	Jiangsu
@@ -127,8 +220,10 @@ division	Guangdong
 division	Shanghai
 division	Hong Kong
 division	Taiwan
+division	Taoyuan
 division	Aichi
 division	Tokyo
+division	Saitama
 division	Nara
 division	Osaka
 division	Kyoto
@@ -137,37 +232,194 @@ division	Gyeonggi
 division	Chungcheongnam
 division	Seoul
 division	South Korea
+division	Selangor
+division	Kuala Lumpur
 division	Kathmandu
 division	Kerala
 division	Iran
+division	Kuwait
+division	Gilgit Baltistan
 division	Tbilisi
 division	Thanh Hoa
+division	Ho Chi Minh City
+division	Vinhphuc
+division	Red River Delta
+division	Quangning
 division	Sihanoukville
 division	Nonthaburi
 division	Singapore
 division	Queensland
+division	Northern Territory
 division	New South Wales
 division	Victoria
+division	Wellington
+division	Otago
 division	Auckland
+division	Riyadh
+division	Saint Petersburg
 division	Europe
+division	Reykjavik
+division	Oslo
+division	Central Hungary
+division	Baranya
+division	Kostoliste
+division	Kosice
+division	Bratislava
+division	Martin
+division	Copenhagen
+division	Bretagne
 division	Ile de France
+division	Centre-Val de Loire
+division	France
+division	Auvergne-Rhône-Alpes
 division	Pays de la Loire
 division	Hauts de France
+division	Bretagne
 division	Bourgogne-France-Comté
 division	Normandie
 division	Grand Est
 division	Auvergne Rhone Alpes
+division	Spain
+division	Castilla Y León
+division	Basque Country
+division	Castilla La Mancha
+division	Andalusia
+division	Catalunya
+division	Castilla y Leon
+division	Barcelona
+division	Galicia
+division	Madrid
 division	Flanders
+division	Beersel
 division	Leuven
+division	Zinnik
+division	Namur
+division	Sint-Agatha-Berchem
+division	Wevelgem
+division	Waterloo
+division	Stekene
+division	Lanaken
+division	Vilvoorde
+division	Charleroi
+division	Mouscron
+division	Zoutleeuw
+division	Nieuwerkerken
+division	Courcelles
+division	Bree
+division	Knokke-Heist
+division	Herve
+division	Oudergem
+division	La Louviere
+division	Ukkel
+division	Quaregnon
+division	Genappe
+division	Ath
+division	Doornik
+division	Theux
+division	Berloz
+division	Anderlecht
+division	Gent
+division	Waasmunster
+division	Tielt-Winge
+division	Dalhem
+division	Quevy
+division	Lubbeek
+division	Hemiksem
+division	Sint-Gillis-Waas
+division	Walloon Brabant
+division	Herent
+division	Silly
+division	Wervik
+division	Belgium
+division	Pelt
+division	Blegny
+division	Estinnes
+division	Ravels
+division	Tournai
+division	Lasne
+division	Herstal
+division	Boutersem
+division	Dendermonde
+division	Saint-Ghislain
+division	Soignies
+division	Henri-chapelle
+division	Elsene
+division	Sint-Genesius-Rode
+division	Wanze
+division	Seraing
+division	Riemst
+division	Oostrozebeke
+division	Geraardsbergen
+division	Herselt
+division	Montigny-le-Tilleul
+division	Beringen
+division	Soumagne
+division	Havelange
+division	Fontaine-l Eveque
+division	Lummen
+division	Mons
+division	Boussu
+division	Tienen
+division	Grimbergen
+division	Colfontaine
+division	Bonheiden
+division	Bierbeek
+division	Ronse
+division	Etterbeek
+division	Sint-Truiden
+division	Andenne
+division	Linter
+division	Alken
+division	Tervuren
+division	Watermaal-Bosvoorde
+division	Couvin
+division	Braine-l alleud
+division	Tubize
+division	Frameries
+division	Honnelles
+division	Hasselt
+division	Chaineux
+division	Kalmthout
+division	Ganshoren
+division	Nevele
+division	Houthalen-Helchteren
+division	Zonhoven
+division	Gierle
+division	Dilbeek
+division	Schoten
+division	Rixensart
+division	Vorst
+division	Sint-Pieters-Woluwe
+division	Kasterlee
+division	Couthuin
+division	Kessel-Lo
+division	Holsbeek
 division	Sint-Niklaas
 division	Kraainem
 division	Huldenberg
 division	Brussels
+division	Liège
+division	Saint-Saulve
+division	Helden
+division	Switzerland
+division	Lucerne
 division	Bavaria
+division	Duesseldorf
 division	Baden-Wuerttemberg
 division	North Rhine Westphalia
 division	Netherlands
 division	Utrecht
+division	Deinze
+division	Antwerp
+division	Ellezelles
+division	Merelbeke
+division	Hoegaarden
+division	Asse
+division	Zolder
+division	Kaulile
+division	Eupen
+division	Oevel
+division	Ghent
 division	Overijssel
 division	Gelderland
 division	Limburg
@@ -177,7 +429,12 @@ division	Flevoland
 division	South Holland
 division	North Holland
 division	Luxembourg
+division	Austria
+division	Vienna
+division	Germany
+division	Zielonogorskie
 division	Basel
+division	Basel-Stadt
 division	Bern
 division	Zurich
 division	Aargau
@@ -187,34 +444,76 @@ division	Ticino
 division	Graubünden
 division	Schwyz
 division	Comunitat Valenciana
+division	Athens
+division	Komen
 division	Italy
 division	Lazio
+division	Marche
 division	Lombardy
+division	Abruzzo
+division	Rome
+division	Friuli Venezia Giulia
 division	Usti nad Labem
+division	Grand Canary Islands
+division	Canary Islands
+division	La Rioja
+division	Lisbon
+division	Croatia
 division	Northern Ireland
 division	England
+division	Nottinghamshire
+division	United Kingdom
 division	Wales
 division	Dublin
+division	Tipperary
+division	Louth
+division	Wicklow
+division	Cork
 division	Limerick
 division	Scotland
 division	Småland
 division	Helsinki
 division	Finland
+division	Denmark
 division	Portugal
 division	Lagos
 division	Kinshasa
+division	KwaZulu-Natal
+division	Mbour
+division	Touba
+division	Dakar
+division	St-Louis
+division	Thies
+division	Blida
+division	Boufarik
 division	Santiago
 division	Talca
 division	Sao Paulo
 division	Espirito Santo
 division	Bahia
+division	Goiais
+division	Minas Gerais
+division	Rio Grande do Sul
 division	Rio de Janeiro
+division	Distrito Federal
+division	Amazonas State
+division	Antioquia
+division	Bogota
+division	Quito
 division	Panama City
 division	Mexico City
+division	USA
+division	Connecticut
+division	Rhode Island
+division	Virginia
+division	Florida
+division	Georgia
 division	Texas
 division	Utah
+division	Idaho
 division	Arizona
 division	California
+division	Oregon
 division	Illinois
 division	Wisconsin
 division	Minnesota
@@ -222,7 +521,19 @@ division	Massachusetts
 division	New York
 division	Washington
 division	British Columbia
+division	Saskatchewan
+division	Nova Scotia
+division	New Brunswick
+division	Manitoba
 division	Ontario
+
+division	Chiba
+division	Ishikawa
+division	Kochi
+division	Khyber Pakhtunkhwa
+
+
+
 
 country	China
 country	Hong Kong
@@ -234,15 +545,32 @@ country	India
 country	Vietnam
 country	Cambodia
 country	Thailand
+country	Malaysia
 country	Singapore
 country	Australia
 country	New Zealand
+country	Saudi Arabia
+country	Kuwait
+country	Iran
+country	Pakistan
 country	Georgia
+country	Russia
+country	Europe
+country	Slovakia
+country	Slovenia
+country	Poland
+country	Hungary
+country Croatia
 country	France
+country	Iceland
+country	Norway
+country	Denmark
 country	Netherlands
 country	Belgium
 country	Luxembourg
 country	Germany
+country	Austria
+country	Croatia
 country	Switzerland
 country	Italy
 country	Spain
@@ -252,10 +580,17 @@ country	Ireland
 country	Finland
 country	Sweden
 country	Portugal
+country	Greece
+country	Egypt
 country	Nigeria
+country	Senegal
+country	Algeria
 country	Congo
+country	South Africa
 country	Chile
+country	Ecuador
 country	Brazil
+country	Colombia
 country	Panama
 country	Mexico
 country	USA
